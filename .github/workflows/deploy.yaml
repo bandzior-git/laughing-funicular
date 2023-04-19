@@ -37,7 +37,7 @@ jobs:
         uses: google-github-actions/get-gke-credentials@v0
         with:
           cluster_name: laniculaster
-          location: europe-central-2a
+          location: europe-central2-a
  
       - name: Build
         run: |-
