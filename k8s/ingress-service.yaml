@@ -15,7 +15,7 @@ spec:
   tls:
     - hosts:
         - balcerski.eu
-         - www.balcerski.eu
+        - www.balcerski.eu
       secretName: balcerski-eu
   rules:
     - host: balcerski.eu
