@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Fib Calculator pruuk kolejny 2023.04.21 15:18
+            Fib Calculator pruuk kolejny 2023.04.21 15:39
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
